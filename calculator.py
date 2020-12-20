@@ -1,9 +1,18 @@
+
 """
 Calculator Ptogram
 """
 
-def addNumbers(a,b):
-	return a+b
 
-def subtractNumber(1,b):
-	return a-b
+def addNumbers(a, b):
+    return a+b
+
+
+def subtractNumber(a, b):
+    return a-b
+
+
+def multiplyNumbers(a,b):
+	return a*b
+
+
