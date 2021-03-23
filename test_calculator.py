@@ -11,3 +11,4 @@ class TestCalculator:
 
     def test_multiplication(self):
         assert 101 == calculator.multiplyNumbers(10, 10)
+
